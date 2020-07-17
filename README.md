@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/github/followers/zenithexpo?color=%23181717&label=&logo=github&style=for-the-badge)](https://github.com/zenithexpo)
 [![](https://img.shields.io/badge/-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zenithexpo)
-[![](https://img.shields.io/twitter/follow/unsigned_32?color=%231DA1F2&label=&logo=twitter&logoColor=%23ffffff&style=for-the-badge)](https://twitter.com/DikshaVv)
+[![](https://img.shields.io/twitter/follow/DikshaVv?color=%231DA1F2&label=&logo=twitter&logoColor=%23ffffff&style=for-the-badge)](https://twitter.com/DikshaVv)
 ### Hola World! 👋
 
 <!--
