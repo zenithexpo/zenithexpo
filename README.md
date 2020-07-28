@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning data structures and algorithms to improve my Competitive Programming.
 - 📫 How to reach me: 112dikshaverma@gmail.com
 - ⚡ Fun fact: Call me **root**!
-
+- 💬 Ask me about the Purpose! Why I choose Computer Science? Maybe!
 <!--![stats](https://github-readme-stats.vercel.app/api?username=zenithexpo)-->
