@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building ReactNative applications and Graphics Designing.
 - 🌱 I’m currently learning data structures and algorithms to improve my Competitive Programming.
 -->
+- 💬 Ask me anything related to Data Structures, Algorithms and Competitive Programming.
 - 📫 How to reach me: 112dikshaverma@gmail.com
 - ⚡ Fun fact: Call me **root**!
  
