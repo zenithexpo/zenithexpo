@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning data structures and algorithms to improve my Competitive Programming.
 -->
 - 💬 Ask me anything related to Data Structures, Algorithms and Competitive Programming.
+- 🔭 I’m currently working on machine learning projects.
 - 📫 How to reach me: 112dikshaverma@gmail.com
 - ⚡ Fun fact: Call me **root**!
  
