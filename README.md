@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on machine learning projects.
 - 📫 How to reach me: 112dikshaverma@gmail.com
 - ⚡ Fun fact: Call me **root**!
- 
+- 🔗 To know more, visit: [dikshaverma.me](https://dikshaverma.me)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=zenithexpo)
