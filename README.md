@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💬 Ask me anything related to Data Structures, Algorithms and Competitive Programming.
 - 🔭 I’m currently working on computer vision and machine learning projects.
 - 📫 How to reach me: 112dikshaverma@gmail.com
-- ✨ Interests : NLP, Computer Vision, Robotics, DevOps and Designing.
+- ✨ Interests : NLP, Computer Vision, Robotics, Web Developement & Designing.
 - 🔗 To know more, visit: [dikshaverma.me](https://dikshaverma.me)
 - ⚡ Fun fact: Call me **root**!
 
