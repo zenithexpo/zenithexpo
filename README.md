@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning data structures and algorithms to improve my Competitive Programming.
 -->
 - 💬 Ask me anything related to Data Structures, Algorithms and Competitive Programming.
-- 🔭 I’m currently working on computer vision and machine learning projects.
+- 🔭 I’m currently working on cloud-native and javascript projects.
 - 📫 How to reach me: 112dikshaverma@gmail.com
 - ✨ Interests : NLP, Computer Vision, Robotics, Web Developement & Designing.
+- 👯 learning German for fun :D
 - 🔗 To know more, visit: [dikshaverma.me](https://dikshaverma.me)
 - ⚡ Fun fact: Call me **root**!
+
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=zenithexpo)
