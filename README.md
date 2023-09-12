@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on cloud-native and javascript projects.
 - 📫 How to reach me: 112dikshaverma@gmail.com
 - ✨ Interests : NLP, Computer Vision and Robotics.
-- 👯 learning German for fun :D
 - 🔗 To know more, visit: [dikshaverma.me](https://dikshaverma.me)
-- ⚡ Fun fact: Call me **root**!
 
 
 
